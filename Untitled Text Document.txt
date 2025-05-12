@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DreamSync - Smart Pillow</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f4f8;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #4A90E2;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+        }
+        h1, h2 {
+            font-size: 24px;
+            color: #333;
+        }
+        p {
+            font-size: 16px;
+            color: #666;
+        }
+        .buy-now {
+            background-color: #28a745;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            font-size: 18px;
+            cursor: pointer;
+        }
+        .buy-now:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to DreamSync</h1>
+        <p>The Smart Pillow that lets you control, record, and share your dreams.</p>
+    </header>
+
+    <section id="about">
+        <h2>About DreamSync</h2>
+        <p>DreamSync is a revolutionary smart pillow that allows you to take control of your dreams. With its advanced neurotechnology, you can now steer your dream adventures, record them for later, and even share your wildest dreams with friends!</p>
+    </section>
+
+    <section id="features">
+        <h2>Features</h2>
+        <ul>
+            <li>Dream Control: Adjust your dream scenarios and create the perfect dream.</li>
+            <li>Dream Recording: Capture every detail of your dreams to revisit anytime.</li>
+            <li>Dream Sharing: Share your dreams with others and explore theirs!</li>
+            <li>Comfortable Design: A soft, ergonomically designed pillow for the best sleep experience.</li>
+        </ul>
+    </section>
+
+    <section id="buy-now">
+        <h2>Buy Now</h2>
+        <p>Get your DreamSync pillow today for just $199.99 USD!</p>
+        <button class="buy-now">Buy Now</button>
+    </section>
+
+</body>
+</html>
